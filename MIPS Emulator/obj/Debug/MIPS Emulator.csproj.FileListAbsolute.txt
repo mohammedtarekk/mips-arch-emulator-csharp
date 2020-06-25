@@ -1,0 +1,10 @@
+E:\College\Third Year\2nd Term\Researches\Archi\MIPS Emulator\MIPS Emulator\bin\Debug\MIPS Emulator.exe.config
+E:\College\Third Year\2nd Term\Researches\Archi\MIPS Emulator\MIPS Emulator\bin\Debug\MIPS Emulator.exe
+E:\College\Third Year\2nd Term\Researches\Archi\MIPS Emulator\MIPS Emulator\bin\Debug\MIPS Emulator.pdb
+E:\College\Third Year\2nd Term\Researches\Archi\MIPS Emulator\MIPS Emulator\obj\Debug\MIPS Emulator.csprojAssemblyReference.cache
+E:\College\Third Year\2nd Term\Researches\Archi\MIPS Emulator\MIPS Emulator\obj\Debug\MIPS_Emulator.Form1.resources
+E:\College\Third Year\2nd Term\Researches\Archi\MIPS Emulator\MIPS Emulator\obj\Debug\MIPS_Emulator.Properties.Resources.resources
+E:\College\Third Year\2nd Term\Researches\Archi\MIPS Emulator\MIPS Emulator\obj\Debug\MIPS Emulator.csproj.GenerateResource.cache
+E:\College\Third Year\2nd Term\Researches\Archi\MIPS Emulator\MIPS Emulator\obj\Debug\MIPS Emulator.csproj.CoreCompileInputs.cache
+E:\College\Third Year\2nd Term\Researches\Archi\MIPS Emulator\MIPS Emulator\obj\Debug\MIPS Emulator.exe
+E:\College\Third Year\2nd Term\Researches\Archi\MIPS Emulator\MIPS Emulator\obj\Debug\MIPS Emulator.pdb
